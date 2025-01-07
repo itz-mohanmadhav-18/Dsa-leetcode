@@ -3,16 +3,16 @@ class Solution {
         List<String> result = new ArrayList<>();
 
         for (int i = 0; i < words.length; i++) {
-            String curr = words[i];
-            if (isSubstringOfSomeoneButIt(words, curr, i)) {
-                result.add(curr);
+            String current = words[i];
+            if (isSubstring(words, current, i)) {
+                result.add(current);
             } 
         }
 
         return result;
     }
 
-    private static boolean isSubstringOfSomeoneButIt(String[] words, String curr, int indexToExclude) {
+    private static boolean isSubstring(String[] words, String curr, int indexToExclude) {
         for (int j = 0; j < words.length; j++) {
             if (j == indexToExclude)
                 continue;
