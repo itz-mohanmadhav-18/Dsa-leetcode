@@ -1,24 +1,17 @@
 class Solution {
     public String maximumOddBinaryNumber(String s) {
+        int ones = 0;
+        for(char c : s.toCharArray()){
+            if (c=='1') ones++;
+            
+        }
 
-        String ans = "";
-        int num = 0 ;
-        for(int i = 0 ; i <s.length() ; i++){
-              if(s.charAt(i)=='1'){
-                num++;
-              }
-        }
-        System.out.println(num);
-        while(num>1){
-            ans+="1";
-            num--;
-        }
-        int remainingLength = s.length()-ans.length();
-        while(remainingLength>1){
-            ans+="0";
-            remainingLength--;
-        }
-        return ans+"1";
+        StringBuilder sb = new StringBuilder();
+        for(int i = 0 ; i<ones-1 ; i++) sb.append('1');
+        for(int i = 0 ; i<s.length()-ones;i++) sb.append('0');
+        sb.append('1');
+
+        return sb.toString();
         
     }
 }
