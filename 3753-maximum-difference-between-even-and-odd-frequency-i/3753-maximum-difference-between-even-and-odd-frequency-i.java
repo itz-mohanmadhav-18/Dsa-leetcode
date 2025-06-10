@@ -1,23 +1,29 @@
 class Solution {
     public int maxDifference(String s) {
-        Map<Character,Integer> map = new HashMap<>();
-        char[] chars = s.toCharArray();
-        for(char x : chars){
-            map.put(x,map.getOrDefault(x,0)+1);
+        if (s == null || s.length() == 0) return 0;
+
+        Map<Character, Integer> freqMap = new HashMap<>();
+        int minEven = Integer.MAX_VALUE;
+        int maxOdd = Integer.MIN_VALUE;
+
+        for (int i = 0; i < s.length(); i++) {
+            char c = s.charAt(i);
+            freqMap.put(c, freqMap.getOrDefault(c, 0) + 1);
         }
 
-        int min = Integer.MAX_VALUE;
-        int max = Integer.MIN_VALUE;
-
-        for(int freq : map.values()){
-            if(freq % 2==0){
-                min = Math.min(freq,min);
-            }else{
-                max = Math.max(freq,max);
+        for (int freq : freqMap.values()) {
+            if (freq % 2 == 0) {
+                minEven = Math.min(minEven, freq);
+            } else {
+                maxOdd = Math.max(maxOdd, freq);
             }
         }
 
-        return max-min;
-        
+        // Handle edge case: if no even or no odd frequency
+        if (minEven == Integer.MAX_VALUE || maxOdd == Integer.MIN_VALUE) {
+            return 0;
+        }
+
+        return maxOdd - minEven;
     }
 }
