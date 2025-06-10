@@ -19,4 +19,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Hash Table
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+## Counting
+|  |
+| ------- |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 <!---LeetCode Topics End-->
