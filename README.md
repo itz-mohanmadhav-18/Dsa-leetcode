@@ -32,4 +32,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
