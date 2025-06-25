@@ -36,4 +36,5 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0176-second-highest-salary) |
+| [0177-nth-highest-salary](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0177-nth-highest-salary) |
 <!---LeetCode Topics End-->
