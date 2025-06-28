@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0177-nth-highest-salary](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0177-nth-highest-salary) |
 | [0584-find-customer-referee](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0584-find-customer-referee) |
 | [0595-big-countries](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1258-article-views-i) |
 ## Math
 |  |
 | ------- |
