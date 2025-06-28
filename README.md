@@ -37,4 +37,16 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0176-second-highest-salary](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0176-second-highest-salary) |
 | [0177-nth-highest-salary](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0177-nth-highest-salary) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
