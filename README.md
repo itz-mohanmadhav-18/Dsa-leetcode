@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Table
@@ -49,6 +50,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 ## Memoization
 |  |
 | ------- |
