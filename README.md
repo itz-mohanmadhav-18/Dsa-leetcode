@@ -15,6 +15,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
@@ -32,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Database
 |  |
@@ -46,6 +48,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
+| [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 ## Dynamic Programming
 |  |
 | ------- |
