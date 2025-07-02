@@ -21,6 +21,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [3617-find-the-original-typed-string-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Hash Table
 |  |
