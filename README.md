@@ -41,6 +41,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0075-sort-colors) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -67,6 +68,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Memoization
 |  |
 | ------- |
