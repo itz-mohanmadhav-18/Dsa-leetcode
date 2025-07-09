@@ -18,6 +18,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -45,6 +46,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Database
 |  |
 | ------- |
@@ -77,4 +79,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
