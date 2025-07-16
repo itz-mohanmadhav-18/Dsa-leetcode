@@ -31,6 +31,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
@@ -43,6 +44,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0031-next-permutation) |
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0075-sort-colors) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -93,4 +95,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
