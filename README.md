@@ -33,6 +33,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
@@ -52,6 +53,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -102,4 +104,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0048-rotate-image](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
