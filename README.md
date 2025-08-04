@@ -33,11 +33,13 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Array
 |  |
@@ -52,6 +54,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -88,6 +91,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0229-majority-element-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
