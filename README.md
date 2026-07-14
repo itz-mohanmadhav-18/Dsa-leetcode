@@ -62,6 +62,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0485-max-consecutive-ones](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0746-min-cost-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -89,6 +90,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [0746-min-cost-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
 |  |
