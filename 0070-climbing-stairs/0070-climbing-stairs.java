@@ -1,17 +1,23 @@
 class Solution {
     public int climbStairs(int n) {
-        int[] dp = new int[n+1];
-        Arrays.fill(dp,-1);
-        int ans = climb(n,dp);
-        return ans;
+
+        if(n<=1) return 1;
+
+        int[] arr = new int[n+1];
+        Arrays.fill(arr,-1); // impossible assginment to anchor the uncomputed idx
+
+        return climb(n,arr);
+
+        
     }
 
-    public int climb(int num,int[] dp){
-        if(num==0||num==1){
-            return 1;
-        }
-        if(dp[num]!=-1) return dp[num];
+    public int climb(int n,int[] arr){
 
-        return dp[num] = climb(num-1,dp)+climb(num-2,dp);
+        if(n<=1) return 1;
+
+        if(arr[n]!=-1) return arr[n];
+
+        return arr[n] = climb(n-2,arr) + climb(n-1,arr);
+
     }
 }
