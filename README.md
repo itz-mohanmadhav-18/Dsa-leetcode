@@ -24,6 +24,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [1143-longest-common-subsequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1143-longest-common-subsequence) |
@@ -87,6 +88,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
@@ -138,4 +140,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0509-fibonacci-number) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
