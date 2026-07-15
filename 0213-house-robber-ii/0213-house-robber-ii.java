@@ -5,25 +5,29 @@ class Solution {
 
         if(n==1) return nums[0];
 
-        int[][] dp = new int[n+1][n+1];
+        if(n==2) return Math.max(nums[0],nums[1]);
 
+        int[] dp = new int[n];
 
-        for(int[] arr : dp){
-            Arrays.fill(arr,-1);
-        }
+        return Math.max(
+            helper(nums,dp,0,n-1),
+            helper(nums,dp,1,n)
+        );
 
-        return Math.max(helper(nums,0,n-1,dp),helper(nums,1,n,dp)); 
         
     }
 
-    public int helper(int[] nums,int idx,int n,int[][] dp){
-        if(idx >= n) return 0;
+    public int helper(int[] nums , int[] dp ,int i , int n){
 
-        if(dp[idx][n] != -1) return dp[idx][n];
+        dp[i] = nums[i] ;
+        dp[i+1] = Math.max(nums[i],nums[i+1]);
 
-        int robThis = nums[idx] + helper(nums,idx+2, n,dp);
-        int doNotRob = helper(nums,idx+1,n,dp);
+        for(int j = i+2 ; j<n;j++){
+            dp[j] = Math.max(nums[j]+dp[j-2],dp[j-1]);
+        }
+        
+        return dp[n-1];
 
-        return dp[idx][n] = Math.max(robThis,doNotRob);
     }
+
 }
