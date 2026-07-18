@@ -1,40 +1,27 @@
 class Solution {
-
-    public boolean helper(String s , int start , int end , Boolean[][] dp){
-
-        if(start>end) return false;
-        if(start==end) return dp[start][end] = true;
-
-        if(dp[start][end] != null) return dp[start][end];
-
-        if(s.charAt(start)==s.charAt(end)){
-            if(end==start+1 || helper(s,start+1,end-1,dp)){
-                dp[start][end] = true;
-                } else dp[start][end] = false;
-        }else dp[start][end] = false;
-
-        helper(s,start+1,end,dp);
-        helper(s,start,end-1,dp);
-
-        return dp[start][end];
-
-    }
-
     public int countSubstrings(String s) {
 
-        Boolean[][] dp = new Boolean[s.length()][s.length()];
+        int n = s.length();
 
-        helper(s,0,s.length()-1,dp);
+        int count = 0;
 
-        int ans = 0;
+        boolean[][] dp = new boolean[n][n];
 
-        for(Boolean[] arr : dp){
-            for(Boolean x : arr){
-                if(x!=null && x==true) ans++;
+        for(int gap = 0 ; gap < n ; gap++){
+            for(int i = 0 , j = gap ; j < n ; j++,i++){
+                if(gap==0) dp[i][j] = true; 
+
+                else if(gap==1) dp[i][j] = (s.charAt(i) == s.charAt(j));
+
+                else if(s.charAt(i)==s.charAt(j)){
+                    dp[i][j] = dp[i+1][j-1];
+                } 
+
+                if(dp[i][j]) count++;
             }
         }
 
-        return ans;
-        
+
+        return count;
     }
 }
