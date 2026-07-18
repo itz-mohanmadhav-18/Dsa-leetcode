@@ -20,6 +20,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0283-move-zeroes) |
+| [0647-palindromic-substrings](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0647-palindromic-substrings) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
@@ -28,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1143-longest-common-subsequence) |
 | [3617-find-the-original-typed-string-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -100,6 +102,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0213-house-robber-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0509-fibonacci-number) |
+| [0647-palindromic-substrings](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1143-longest-common-subsequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1143-longest-common-subsequence) |
 ## Memoization
