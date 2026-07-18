@@ -1,43 +1,40 @@
 class Solution {
 
+    public boolean helper(String s , int start , int end , Boolean[][] dp){
 
+        if(start>end) return false;
+        if(start==end) return dp[start][end] = true;
 
-    public int helper(String s , int idx){
+        if(dp[start][end] != null) return dp[start][end];
 
-        if(idx==s.length()) return 0;
+        if(s.charAt(start)==s.charAt(end)){
+            if(end==start+1 || helper(s,start+1,end-1,dp)){
+                dp[start][end] = true;
+                } else dp[start][end] = false;
+        }else dp[start][end] = false;
 
-        int ans = 0;
+        helper(s,start+1,end,dp);
+        helper(s,start,end-1,dp);
 
-        for(int i = idx ; i<s.length() ; i++){
-
-            if(isPalin(s.substring(idx,i+1))){
-                ans++;
-            }
-
-        }
-
-        int subsequentCalls = helper(s,idx+1);
-        int finalAns = ans + subsequentCalls;
-        
-        return finalAns;
+        return dp[start][end];
 
     }
 
     public int countSubstrings(String s) {
 
-        return helper(s,0);
-        
-    }
+        Boolean[][] dp = new Boolean[s.length()][s.length()];
 
-    public boolean isPalin(String s){
+        helper(s,0,s.length()-1,dp);
 
-        for(int i  = 0,j=s.length()-1 ; i<=j ; i++,j--){
-            if(s.charAt(i)!=s.charAt(j)) return false;
+        int ans = 0;
+
+        for(Boolean[] arr : dp){
+            for(Boolean x : arr){
+                if(x!=null && x==true) ans++;
+            }
         }
 
-        return true;
-
+        return ans;
+        
     }
-
-
 }
