@@ -29,6 +29,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0516-longest-palindromic-subsequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0647-palindromic-substrings) |
 | [1143-longest-common-subsequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/1143-longest-common-subsequence) |
@@ -103,6 +104,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0091-decode-ways) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0322-coin-change) |
@@ -159,6 +161,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0131-palindrome-partitioning) |
 ## Breadth-First Search
 |  |
 | ------- |
