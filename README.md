@@ -39,6 +39,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0001-two-sum](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0229-majority-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -60,6 +61,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0073-set-matrix-zeroes](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0075-sort-colors) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
@@ -123,6 +125,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 ## Simulation
 |  |
 | ------- |
@@ -166,6 +169,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0094-binary-tree-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
@@ -183,6 +187,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0094-binary-tree-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
