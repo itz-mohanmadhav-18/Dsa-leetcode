@@ -1,32 +1,16 @@
 class Solution {
-
-    public int helper(int m , int n , int i , int j,int[][] dp){
-
-        if(i == m-1 && n-1 == j) return 1;
-
-         int ans=0;
-
-         if(dp[i][j]!=-1) return dp[i][j];
-
-       if(i<m){
-        ans += helper(m,n,i+1,j,dp);
-       } 
-       if(j<n){
-        ans += helper(m,n,i,j+1,dp);
-       }
-
-        return dp[i][j] =  ans;
-
-    }
     public int uniquePaths(int m, int n) {
 
-        int[][] dp = new int[m+1][n+1];
+        int[][] dp = new int[m][n];
 
-        for(int[] arr : dp){
-            Arrays.fill(arr,-1);
+        for(int i = 0 ; i<m ; i++){
+            for(int j = 0 ; j<n ; j++){
+                if(i==0 || j==0) dp[i][j] = 1; //only path to come in one direction
+                else{
+                    dp[i][j] = dp[i-1][j] + dp[i][j-1];
+                }
+            }
         }
-
-        return helper(m,n,0,0,dp);
-        
+        return dp[m-1][n-1];
     }
 }
