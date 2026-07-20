@@ -92,6 +92,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0189-rotate-array) |
 | [0509-fibonacci-number](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0509-fibonacci-number) |
@@ -100,6 +101,7 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | ------- |
 | [0022-generate-parentheses](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0072-edit-distance) |
 | [0091-decode-ways](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0091-decode-ways) |
@@ -203,4 +205,8 @@ Created with :heart: by [LeetPush](https://github.com/husamahmud/LeetPush)
 | [0094-binary-tree-inorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/itz-mohanmadhav-18/Dsa-leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
